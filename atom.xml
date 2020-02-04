@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zenas</title>
+  
+  <subtitle>Find difference</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zenas.top/"/>
+  <updated>2020-02-03T11:07:31.750Z</updated>
+  <id>http://zenas.top/</id>
+  
+  <author>
+    <name>Jiyao Zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Happy new year</title>
+    <link href="http://zenas.top/2020/02/03/hhhh/"/>
+    <id>http://zenas.top/2020/02/03/hhhh/</id>
+    <published>2020-02-03T11:06:15.084Z</published>
+    <updated>2020-02-03T11:07:31.750Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="happy-new-year"><a href="#happy-new-year" class="headerlink" title="happy new year!"></a>happy new year!</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;happy-new-year&quot;&gt;&lt;a href=&quot;#happy-new-year&quot; class=&quot;headerlink&quot; title=&quot;happy new year!&quot;&gt;&lt;/a&gt;happy new year!&lt;/h1&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
