@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zenas.top/about/index.html</loc>
+    <loc>http://zenas.top/2020/02/10/list1/</loc>
     
-    <lastmod>2020-02-10T09:37:08.789Z</lastmod>
+    <lastmod>2020-02-12T04:32:05.768Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://zenas.top/2020/02/10/list1/</loc>
+    <loc>http://zenas.top/2020/02/12/list2/</loc>
     
-    <lastmod>2020-02-10T08:50:11.542Z</lastmod>
+    <lastmod>2020-02-12T04:31:32.507Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zenas.top/about/index.html</loc>
+    
+    <lastmod>2020-02-10T09:37:08.789Z</lastmod>
     
   </url>
   
